@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Nghich
+public class DSA06026SAPXEPNOIBOT
 {
     public static void main(String[] args) {
         int n;
@@ -36,5 +36,6 @@ public class Nghich
             }
             System.out.println();
         }
+        sc.close();
     }
 }
